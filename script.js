@@ -1,6 +1,6 @@
 const keys = document.querySelectorAll(".calculator-buttons div");
 
-const operators = ["+", "-", "*", "?"];
+const operators = ["+", "-", "*", "÷"];
 let hasDecimal = false;
 
 keys.forEach(key => {
